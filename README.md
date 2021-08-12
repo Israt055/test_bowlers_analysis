@@ -5,7 +5,33 @@ Learn Data analysis  of the all time top bowlers in cricket match using Machine 
 
 # Features : 
 
-. 
+* player = player name
+
+* span = the staring year and the ending year of a player to play.
+
+* Mat = number of matches
+
+* inns = number of innings
+
+* balls = total number of bowling. a bowler delivers the ball from his or her end of the pitch towards the batsman
+
+* Runs = total acquired runs in the whole span
+
+* Wkts= total number wicket taken of a bowler.
+
+* BBI = BBI stands for Best Bowling in Innings and only gives the score for one innings.
+
+* BBM = BBM stands for Best Bowling in Match and gives the combined score over 2 or more innings in one match.
+
+* average = bowling average is the number of runs they have conceded per wicket taken.
+
+* Econ = Economy rate. a player's economy rate is the average number of runs they have conceded per over bowled.
+
+* SR = strike rate. Bowling Strike Rate is a measurement of a bowler’s average number of balls bowled for every wicket taken.
+
+* 5 = number of times the player took 5 wickets in a match
+
+* 10 = number of times the player took 10 wickets in a match
 
 # Exploratory Data Analysis:
 1. Importing necessary python packages
