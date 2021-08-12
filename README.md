@@ -36,7 +36,7 @@ Learn Data analysis  of the all time top bowlers in cricket match using Machine 
 # Exploratory Data Analysis:
 1. Importing necessary python packages
 
-2.Read the data as Pandas Dataframe
+2. Read the data as Pandas Dataframe
 
 3. Reading the excel (.xlsx) file
 
@@ -46,9 +46,9 @@ Learn Data analysis  of the all time top bowlers in cricket match using Machine 
 
 6. Check the basic statistics of numerical features
 
-8.Renaming columns
+8. Renaming columns
 
-9.Removing unnecessary columns
+9. Removing unnecessary columns
 
 10. Data Analysis using NumPy and Pandas
 
