@@ -3,6 +3,10 @@
 # Goal of this project :
 Learn Data analysis  of the all time top bowlers in cricket match using Machine learning algorithm
 
+# Features : 
+
+. 
+
 # Exploratory Data Analysis:
 1. Importing necessary python packages
 
