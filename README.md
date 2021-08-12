@@ -1,7 +1,7 @@
 # test_bowlers_analysis
-# top bowlers analysis in cricket matches over year
+# top bowlers analysis in cricket matches
 # Goal of this project :
-Learn Data analysis  of the top bowlers in cricket mactch over time using Machine learning algorithm
+Learn Data analysis  of the all time top bowlers in cricket mactch over time using Machine learning algorithm
 
 # Exploratory Data Analysis:
 1. Importing necessary python packages
@@ -14,11 +14,9 @@ Learn Data analysis  of the top bowlers in cricket mactch over time using Machin
 
 5. Check the data types and missing values
 
-
 6. Check the basic statistics of numerical features
 
 8.Renaming columns
-
 
 9.Removing unnecessary columns
 
