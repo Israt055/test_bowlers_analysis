@@ -23,3 +23,6 @@ Learn Data analysis  of the top bowlers in cricket mactch over time using Machin
 9.Removing unnecessary columns
 
 10. Data Analysis using NumPy and Pandas
+
+Reference:
+data source: https://stats.espncricinfo.com/ci/content/records/93276.html
