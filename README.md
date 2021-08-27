@@ -15,7 +15,7 @@ Learn Data analysis  of the all time top bowlers in cricket match using Machine 
 
 * balls = total number of bowling. a bowler delivers the ball from his or her end of the pitch towards the batsman
 
-* Runs = total acquired runs in the whole span
+* Runs = total conceded runs by the bowlers in the whole span
 
 * Wkts= total number wicket taken of a bowler.
 
