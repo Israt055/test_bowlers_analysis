@@ -52,6 +52,24 @@ Learn Data analysis  of the all time top bowlers in cricket match using Machine 
 
 10. Data Analysis using NumPy and Pandas
 
+11. Finding the number of  players played for ICC
+
+12. Finding the number of different countries are present in this dataset
+
+13. Finding the player(s) that had played for the longest period of time
+
+14. Finding the  player(s) that had played for the shortest period of time
+
+15. Finding the number of  Australian Bowlers are present in this dataset
+
+16. Finding the number of any Bangladeshi player present in this dataset
+
+17. Finding the number of  player that had the lowest economy rate
+
+18. Finding the number of  player that had the lowest strike rate
+
+19. Finding the number of  player that had the lowest bowling average.
+
 # Reference:
 
 # data source: https://stats.espncricinfo.com/ci/content/records/93276.html
